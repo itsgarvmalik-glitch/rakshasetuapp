@@ -140,18 +140,6 @@ REDIS_URL=redis://localhost:6379
 SACHET_API_KEY=your_key_here
 ```
 
----
-
-## Project Links
-
-- 📦 **Source Code:** [GitHub Repository](#)
-- 🎥 **Demo Video:** [YouTube](#)
-- 🌐 **Live Prototype:** [Try it here](#)
-
-*(Replace the placeholder links above with your actual repo, video, and prototype URLs.)*
-
----
-
 ## Compliance & Standards
 
 CrisisConnect is designed in alignment with:
